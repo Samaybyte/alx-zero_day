@@ -1,0 +1,6 @@
+TO get all changes of the main branch loccaly
+ The first thing that i did is i go to the github web and capture the repo clone link
+
+and i use the following command to pull the changes to my local
+   
+     $ git pull {link for the clone}     // capture the link from repo 
